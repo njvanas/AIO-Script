@@ -28,26 +28,6 @@ irm "https://winscript.cc/irm" | iex
 winget install winscript
 ```
 
-## Support
-
-### ⭐ Star
-
-Feel free to leave a star and help the project reach more people!
-
-### ☕ Donate
-
-If you find this project helpful, consider supporting it by [buying me a coffee!](https://ko-fi.com/flick9000)
-
-### 👷 Contributing
-
-Contributions are welcome! Fork the repository and create a pull request with your changes.
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
-
 ## License
 
 📒 This project is licensed under the GPL v3 License. See the [LICENSE](LICENSE) file for more details.
