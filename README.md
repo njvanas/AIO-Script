@@ -1,6 +1,6 @@
-<h1 align="center">WinScript</h1>
+<h1 align="center">AIO Script</h1>
 
-<p align="center">WinScript is an open-source tool built to help you build custom scripts for Windows. It includes debloat, privacy, performance scripts & more, along with the ability to install all your favourite apps in one click.</p>
+<p align="center">AIO Script is an open-source tool built to help you build custom scripts for Windows. It includes debloat, privacy, performance scripts & more, along with the ability to install all your favourite apps in one click.</p>
 
 ![App Screenshot](/website/public/winscript.webp)
 
@@ -13,8 +13,8 @@
 
 ## Usage
 
-**WinScript must be run as Administrator to function properly.**  
-_The desktop app may be flagged as a threat by Windows Defender due to its ability to modify system settings. This is a false positive—WinScript is safe, transparent, and open-source._
+**AIO Script must be run as Administrator to function properly.**  
+_The desktop app may be flagged as a threat by Windows Defender due to its ability to modify system settings. This is a false positive—AIO Script is safe, transparent, and open-source._
 
 🖥️ **Launch Command**:
 
